@@ -1,3 +1,6 @@
+# inft1016
+
+
 - 👋 Hi, I’m @Ayushpatel14032005
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
